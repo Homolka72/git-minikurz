@@ -1,0 +1,4 @@
+git -v
+
+# git config --global user.email "ithp@centrum.cz"
+# git config --global user.name "Pavel Homolka"
